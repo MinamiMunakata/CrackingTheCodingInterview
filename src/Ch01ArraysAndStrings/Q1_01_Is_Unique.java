@@ -1,19 +1,19 @@
-/*
- *
+/**
  * Created by minami on 2018-10-03.
- * Copyright © 2018 Minami Munakata. All rights reserved.
+ *
+ * Q.1-1 Implement an algorithm to determine
+ * if a string has all unique characters.
+ * What if you cannot use additional data structures?
  *
  */
 
 package Ch01ArraysAndStrings;
 
-
-
 import java.util.HashSet;
 import java.util.Set;
 
 public class Q1_01_Is_Unique {
-    
+
 //    TODO: Only allowed to use either ARRAY or STRING
 
     public static boolean isUniqueChars(String word) {
