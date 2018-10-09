@@ -1,6 +1,6 @@
 package Ch01ArraysAndStrings;
 
-import CCILibrary.MatrixGenerator;
+import CtCILibrary.MatrixGenerator;
 
 
 /**
