@@ -14,6 +14,13 @@ import java.util.Set;
 
 public class Q1_01_Is_Unique {
 
+    /**
+     * Q. Implement an algorithm to determine if a string has all unique characters.
+     *    What if you cannot use additional data structures?
+     * @param word
+     * @return
+     */
+
 //    TODO: Only allowed to use either ARRAY or STRING
 
     public static boolean isUniqueChars(String word) {
